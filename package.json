@@ -50,7 +50,7 @@
     "doctoc": "^2.2.0",
     "dotenv": "^16.4.7",
     "js-yaml": "^4.1.0",
-    "markdown-link-check": "^3.12.1",
+    "markdown-link-check": "^3.13.7",
     "minimist": "^1.2.6",
     "mkdirp": "^3.0.1",
     "node-pandoc": "^0.3.0",
