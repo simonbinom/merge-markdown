@@ -45,7 +45,7 @@
   "license": "ISC",
   "dependencies": {
     "concat": "^1.0.3",
-    "debug": "^4.3.4",
+    "debug": "^4.4.1",
     "dockerode": "^4.0.2",
     "doctoc": "^2.2.0",
     "dotenv": "^16.4.7",
