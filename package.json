@@ -49,7 +49,7 @@
     "dockerode": "^4.0.2",
     "doctoc": "^2.2.0",
     "dotenv": "^16.4.7",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "markdown-link-check": "^3.12.1",
     "minimist": "^1.2.6",
     "mkdirp": "^3.0.1",
